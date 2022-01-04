@@ -5,8 +5,8 @@ let pageWidth = window.innerWidth;
 //This array contains all the PacMan movement images
 const pacArray = 
 [
-  ['./images/PacMan1.png', './images/PacMan2.png'],
-  ['./images/PacMan3.png', './images/PacMan4.png'],
+  ['./PacMan1.png', './PacMan2.png'],
+  ['./PacMan3.png', './PacMan4.png'],
 ];
 
 // this variable defines what direction should PacMan go into:
